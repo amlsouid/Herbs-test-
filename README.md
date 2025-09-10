@@ -29,3 +29,5 @@ This project serves as the technological foundation for **Amel Natural Skincare*
 
 **Vision:** From the heart of the Algerian Sahara to the world - redefining beauty through heritage and innovation.
 *This project is part of my application portfolio for the GKS Scholarship to study Artificial Intelligence in South Korea.*
+---
+**📞 Connect with me:** [amlsouid165@gmail.com]
