@@ -23,5 +23,9 @@ Develop an artificial intelligence model that can:
 - [ ] Build AI model prototype
 - [ ] Train and test the model
 
----
+---## 🚀 Future Vision
+
+This project serves as the technological foundation for **Amel Natural Skincare** - a future startup that aims to combine Algerian herbal wisdom with modern AI-driven formulation research. The goal is to create effective, natural skincare products validated by both tradition and science.
+
+**Vision:** From the heart of the Algerian Sahara to the world - redefining beauty through heritage and innovation.
 *This project is part of my application portfolio for the GKS Scholarship to study Artificial Intelligence in South Korea.*
