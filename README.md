@@ -1,10 +1,17 @@
-# Herbs-test-
-My first GitHub project about herbs.
-# Herbs-test  
+# 🌿 Herbs Test
 
-My first GitHub project about herbs.  
+My first GitHub project about herbs and their benefits.  
 
-## List of herbs  
-- Mint: helps with digestion  
-- Chamomile: reduces stress  
-- Rosemary: improves memory
+---
+
+## 📋 List of Herbs
+
+| Herb         | Benefit                  |
+|--------------|--------------------------|
+| Mint         | Helps with digestion     |
+| Chamomile    | Reduces stress           |
+| Rosemary     | Improves memory          |
+
+---
+
+✍️ This project is just a first experiment to learn GitHub and organize information in a structured way.
